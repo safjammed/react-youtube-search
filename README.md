@@ -10,7 +10,7 @@ Install node js in your machine. run these commands
 
 ```
 > git clone https://github.com/safjammed/react-youtube-search.git
-> cd ReduxSimpleStarter
+> cd react-youtube-search
 > npm install
 > npm start
 ```
